@@ -12,6 +12,7 @@ Sample Input via terminal :
   Number of Verices\
   Number of Edges\
   Vertex a Vertex b  EdgeWeight\
+  Vertex m Vertex n  EdgeWeight
   
 
 
